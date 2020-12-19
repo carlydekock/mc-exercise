@@ -27,6 +27,8 @@ Carol's work this time around.
 > down the rabbit whole we go!
 ![The cat](https://ohmy.disney.com/wp-content/uploads/2014/07/Cheshire-CAt-thinking.jpg)
 
+![do something bob](https://i.redd.it/yzfusphh93x11.jpg)
+
 ### YOU GUYS I HAVE THIS AMAZING IDEA!!!!!
 
 aorisetnaoirsetnaorisetnaorisetn
