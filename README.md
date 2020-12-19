@@ -6,4 +6,13 @@
 - Mikey Russell
 - Carly Dekock
 
-This is Alice's work.
+## Things they did wrong
+- Never work on main branch
+- Be sure you have the latest version of main any time you make additions
+- Always do work on branches
+- COMMUNICATION WAS MISSING
+
+Bob: Started a branch without having latest version of main which caused a problem.
+Carol: Started a branch without having latest version of main which caused a problem.
+Ted: Working directly in master.
+Alice: Working directly in master.
