@@ -50,5 +50,6 @@ The Burning Spear
 NEW ADDITION BY TED. CHeck this OUTTT!
 
 Alice can't think of any jokes right now. 
+Bob say  WHAAZUUUP!!
 
 Ted just added some content here.
